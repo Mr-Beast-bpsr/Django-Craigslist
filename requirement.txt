@@ -1,0 +1,16 @@
+asgiref==3.3.1
+beautifulsoup4==4.9.3
+bs4==0.0.1
+certifi==2020.12.5
+chardet==4.0.0
+Django==3.1.4
+django-polls @ file:///home/phantom/django-polls/dist/django-polls-0.1.tar.gz
+f.lux-indicator-applet==1.2.1rc0
+idna==2.10
+psycopg2 @ file:///tmp/build/80754af9/psycopg2_1608147593446/work
+pygame==2.0.0
+pytz @ file:///tmp/build/80754af9/pytz_1608922264688/work
+requests==2.25.1
+soupsieve==2.1
+sqlparse==0.4.1
+urllib3==1.26.2
